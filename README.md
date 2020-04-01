@@ -24,6 +24,7 @@ Microsoft official website : https://www.microsoft.com <br />
 .NET official website : https://dotnet.microsoft.com <br />
 ASP.NET Core official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet/ <br />
 Microsoft Docs : https://docs.microsoft.com/en-us/ <br />
+.NET documentation : https://docs.microsoft.com/en-us/dotnet/ <br />
 
 **_ASP.NET Core related tools_** <br />
 Download .NET : https://dotnet.microsoft.com/download <br />
