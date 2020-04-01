@@ -35,6 +35,7 @@ Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br /
 
 **_ASP.NET Core related projects_** <br />
 Book List Razor Project using ASP.NET Core 3.0 by Bhrugen Patel : https://github.com/bhrugen/BookListRazor <br />
+Humanizer : https://github.com/Humanizr/Humanizer <br />
 
 **_ASP.NET Core questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com
