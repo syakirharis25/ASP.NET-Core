@@ -28,6 +28,7 @@ ASP.NET Core official documentation by Microsoft : https://docs.microsoft.com/en
 Download .NET : https://dotnet.microsoft.com/download <br />
 SQL Server : https://www.microsoft.com/en-us/sql-server/sql-server-downloads <br />
 Download SQL Server Management Studio (SSMS) : https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 <br />
+Create .NET apps faster with NuGet : https://www.nuget.org <br />
 
 **_ASP.NET Core related tools_** <br />
 Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br />
