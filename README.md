@@ -49,6 +49,8 @@ Introduction to Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/a
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
 Bhrugen Patel : https://github.com/bhrugen <br />
+Scott Hanselman : https://github.com/shanselman, https://twitter.com/shanselman <br />
+Maria Naggaga : https://twitter.com/LadyNaggaga <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
