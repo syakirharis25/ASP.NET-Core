@@ -21,6 +21,7 @@ ASP.NET's successor is ASP.NET Core. It is a re-implementation of ASP.NET as a m
 <a name="references"></a>
 ## 2. Official references websites.
 Microsoft official website : https://www.microsoft.com <br />
+.NET official website : https://dotnet.microsoft.com <br />
 ASP.NET Core official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet/ <br />
 
 **_ASP.NET Core related tools_** <br />
