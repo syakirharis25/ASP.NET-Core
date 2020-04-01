@@ -37,6 +37,7 @@ Create .NET apps faster with NuGet : https://www.nuget.org <br />
 
 **_ASP.NET Core related tools_** <br />
 Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br />
+Visual Studio Code : https://code.visualstudio.com <br /> 
 
 **_ASP.NET Core related projects_** <br />
 Book List Razor Project using ASP.NET Core 3.0 by Bhrugen Patel : https://github.com/bhrugen/BookListRazor <br />
