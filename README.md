@@ -30,6 +30,9 @@ SQL Server : https://www.microsoft.com/en-us/sql-server/sql-server-downloads <br
 Download SQL Server Management Studio (SSMS) : https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 <br />
 Create .NET apps faster with NuGet : https://www.nuget.org <br />
 
+**_ASP.NET Core schools_** <br />
+.NET In-Browser Tutorial : https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1 <br />
+
 **_ASP.NET Core related tools_** <br />
 Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br />
 
