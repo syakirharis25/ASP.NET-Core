@@ -29,8 +29,8 @@ Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br /
 **_ASP.NET Core questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com
 
-**_ASP.NET Core documentation by [ draft ]** <br />
-[ draft ]  <br />
+**_ASP.NET Core documentation by docs.microsoft.com_** <br />
+Introduction to Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
