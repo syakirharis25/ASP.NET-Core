@@ -10,7 +10,6 @@ My works related to ASP.NET Core open-source web framework developed by Microsof
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="ASP.NET-Core.png" height="110">
 ASP.NET Core is the open-source version of ASP.NET, that runs on macOS, Linux, and Windows. ASP.NET Core was first released in 2016 and is a re-design of earlier Windows-only versions of ASP.NET. Originally deemed ASP.NET vNext, the framework was going to be called ASP.NET 5 when ready. However, in order to avoid implying it is an update to the existing ASP.NET framework, Microsoft later changed the name to ASP.NET Core at the 1.0 release.
 <br /><br />
 ASP.NET is an open-source server-side web-application framework designed for web development to produce dynamic web pages developed by Microsoft to allow programmers to build dynamic web sites, applications and services.
