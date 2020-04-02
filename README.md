@@ -23,6 +23,8 @@ ASP.NET's successor is ASP.NET Core. It is a re-implementation of ASP.NET as a m
 Microsoft official website : https://www.microsoft.com <br />
 .NET official website : https://dotnet.microsoft.com <br />
 ASP.NET Core official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet/ <br />
+Microsoft Docs : https://docs.microsoft.com/en-us/ <br />
+.NET documentation : https://docs.microsoft.com/en-us/dotnet/ <br />
 
 **_ASP.NET Core related tools_** <br />
 Download .NET : https://dotnet.microsoft.com/download <br />
@@ -30,8 +32,12 @@ SQL Server : https://www.microsoft.com/en-us/sql-server/sql-server-downloads <br
 Download SQL Server Management Studio (SSMS) : https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 <br />
 Create .NET apps faster with NuGet : https://www.nuget.org <br />
 
+**_ASP.NET Core schools_** <br />
+.NET In-Browser Tutorial : https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1 <br />
+
 **_ASP.NET Core related tools_** <br />
 Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br />
+Visual Studio Code : https://code.visualstudio.com <br /> 
 
 **_ASP.NET Core related projects_** <br />
 Book List Razor Project using ASP.NET Core 3.0 by Bhrugen Patel : https://github.com/bhrugen/BookListRazor <br />
