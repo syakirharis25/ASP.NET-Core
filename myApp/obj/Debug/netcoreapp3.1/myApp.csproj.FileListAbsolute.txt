@@ -1,0 +1,13 @@
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache

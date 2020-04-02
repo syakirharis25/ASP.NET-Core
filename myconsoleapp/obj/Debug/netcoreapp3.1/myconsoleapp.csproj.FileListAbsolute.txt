@@ -1,0 +1,13 @@
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\bin\Debug\netcoreapp3.1\myconsoleapp.exe
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\bin\Debug\netcoreapp3.1\myconsoleapp.deps.json
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\bin\Debug\netcoreapp3.1\myconsoleapp.runtimeconfig.json
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\bin\Debug\netcoreapp3.1\myconsoleapp.runtimeconfig.dev.json
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\bin\Debug\netcoreapp3.1\myconsoleapp.dll
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\bin\Debug\netcoreapp3.1\myconsoleapp.pdb
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.dll
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.pdb
+C:\Users\syaki\OneDrive\Desktop\ASP.NET-Core\myconsoleapp\obj\Debug\netcoreapp3.1\myconsoleapp.genruntimeconfig.cache
