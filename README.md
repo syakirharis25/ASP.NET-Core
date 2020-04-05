@@ -56,6 +56,8 @@ Get started with .NET Core : https://docs.microsoft.com/en-us/dotnet/core/get-st
 Target frameworks in SDK-style projects : https://docs.microsoft.com/en-us/dotnet/standard/frameworks<br />
 .NET Core project SDKs : https://docs.microsoft.com/en-us/dotnet/core/project-sdk/overview <br />
 Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0 : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage?view=aspnetcore-3.1 <br />
+App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-3.1 <br />
+.NET Generic Host : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
