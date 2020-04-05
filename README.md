@@ -50,6 +50,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com
 
 **_ASP.NET Core documentation by docs.microsoft.com_** <br />
 Introduction to Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio <br />
+Get started with .NET Core : https://docs.microsoft.com/en-us/dotnet/core/get-started?tabs=windows <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
