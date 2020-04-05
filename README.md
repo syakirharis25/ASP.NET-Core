@@ -63,7 +63,7 @@ App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/funda
 [ draft ]  <br />
 
 **_ASP.NET related articles_** <br />
-[ draft ]  <br />
+ASP.NET Core – ConfigureServices vs Configure by CodingBlast : https://codingblast.com/asp-net-core-configureservices-vs-configure/ <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
