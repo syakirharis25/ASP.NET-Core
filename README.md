@@ -27,6 +27,7 @@ Microsoft Docs : https://docs.microsoft.com/en-us/ <br />
 .NET documentation : https://docs.microsoft.com/en-us/dotnet/ <br />
 .NET Core documentation : https://docs.microsoft.com/en-us/dotnet/core/ <br />
 .NET official GitHub page : https://github.com/dotnet <br />
+.NET foundation : https://dotnetfoundation.org <br />
 
 **_ASP.NET Core related tools_** <br />
 Download .NET : https://dotnet.microsoft.com/download <br />
