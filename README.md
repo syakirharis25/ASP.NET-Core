@@ -25,6 +25,10 @@ Microsoft official website : https://www.microsoft.com <br />
 ASP.NET Core official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet/ <br />
 Microsoft Docs : https://docs.microsoft.com/en-us/ <br />
 .NET documentation : https://docs.microsoft.com/en-us/dotnet/ <br />
+.NET Core documentation : https://docs.microsoft.com/en-us/dotnet/core/ <br />
+.NET official GitHub page : https://github.com/dotnet <br />
+.NET foundation : https://dotnetfoundation.org <br />
+.NET Conf official website : https://www.dotnetconf.net/ <br />
 
 **_ASP.NET Core related tools_** <br />
 Download .NET : https://dotnet.microsoft.com/download <br />
@@ -48,12 +52,24 @@ Stack Overflow questions and answers website : https://stackoverflow.com
 
 **_ASP.NET Core documentation by docs.microsoft.com_** <br />
 Introduction to Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio <br />
+Get started with .NET Core : https://docs.microsoft.com/en-us/dotnet/core/get-started?tabs=windows <br />
+Target frameworks in SDK-style projects : https://docs.microsoft.com/en-us/dotnet/standard/frameworks<br />
+.NET Core project SDKs : https://docs.microsoft.com/en-us/dotnet/core/project-sdk/overview <br />
+Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0 : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage?view=aspnetcore-3.1 <br />
+App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-3.1 <br />
+.NET Generic Host : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1 <br />
+ASP.NET Core Middleware : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1<br />
+Stream.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/system.io.stream.writeasync?view=netframework-4.8 <br />
+Using Asynchronous Methods in ASP.NET 4.5 : https://docs.microsoft.com/en-us/aspnet/web-forms/overview/performance-and-caching/using-asynchronous-methods-in-aspnet-45 <br />
+Configuration in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-3.1 <br />
+IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iapplicationbuilder?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
 
 **_ASP.NET related articles_** <br />
-[ draft ]  <br />
+ASP.NET Core – ConfigureServices vs Configure by CodingBlast : https://codingblast.com/asp-net-core-configureservices-vs-configure/ <br />
+How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
