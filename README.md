@@ -63,6 +63,7 @@ Stream.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/system.io
 Using Asynchronous Methods in ASP.NET 4.5 : https://docs.microsoft.com/en-us/aspnet/web-forms/overview/performance-and-caching/using-asynchronous-methods-in-aspnet-45 <br />
 Configuration in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-3.1 <br />
 IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iapplicationbuilder?view=aspnetcore-3.1 <br />
+Partial views in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
