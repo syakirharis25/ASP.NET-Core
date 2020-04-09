@@ -64,6 +64,7 @@ Using Asynchronous Methods in ASP.NET 4.5 : https://docs.microsoft.com/en-us/asp
 Configuration in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-3.1 <br />
 IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iapplicationbuilder?view=aspnetcore-3.1 <br />
 Partial views in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-3.1 <br />
+Tutorial: Get started with Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1&tabs=visual-studio <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
