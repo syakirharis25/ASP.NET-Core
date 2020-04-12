@@ -32,6 +32,7 @@ Microsoft Docs : https://docs.microsoft.com/en-us/ <br />
 
 **_ASP.NET code editor_** <br />
 Visual Studio : https://visualstudio.microsoft.com <br />
+Visual Studio Code : https://code.visualstudio.com <br />
 
 **_ASP.NET Core related tools_** <br />
 Download .NET : https://dotnet.microsoft.com/download <br />
