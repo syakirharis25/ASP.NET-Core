@@ -30,6 +30,9 @@ Microsoft Docs : https://docs.microsoft.com/en-us/ <br />
 .NET foundation : https://dotnetfoundation.org <br />
 .NET Conf official website : https://www.dotnetconf.net/ <br />
 
+**_ASP.NET code editor_** <br />
+Visual Studio : https://visualstudio.microsoft.com <br />
+
 **_ASP.NET Core related tools_** <br />
 Download .NET : https://dotnet.microsoft.com/download <br />
 SQL Server : https://www.microsoft.com/en-us/sql-server/sql-server-downloads <br />
