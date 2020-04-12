@@ -50,7 +50,8 @@ Visual Studio Code : https://code.visualstudio.com <br />
 **_ASP.NET Core related projects_** <br />
 Book List Razor Project using ASP.NET Core 3.0 by Bhrugen Patel : https://github.com/bhrugen/BookListRazor <br />
 Humanizer : https://github.com/Humanizr/Humanizer <br />
-https://github.com/dotnet/cli-lab/releases <br />
+cli-lab : https://github.com/dotnet/cli-lab/releases <br />
+Asp.Net Core MVC 3.1 tutorial with Live application by Nitish : https://github.com/webgentle/AspNetCoreMVC-3.1
 
 **_ASP.NET Core questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
