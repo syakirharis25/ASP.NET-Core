@@ -79,6 +79,7 @@ ASP.NET Core Web Host : https://docs.microsoft.com/en-us/aspnet/core/fundamental
 Configuration in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-3.1 <br />
 Logging in .NET Core and ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-3.1 <br />
 Kestrel web server implementation in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-3.1 <br />
+ASP.NET Core Middleware : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
