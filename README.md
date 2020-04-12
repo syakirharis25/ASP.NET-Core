@@ -50,6 +50,7 @@ Visual Studio Code : https://code.visualstudio.com <br />
 **_ASP.NET Core related projects_** <br />
 Book List Razor Project using ASP.NET Core 3.0 by Bhrugen Patel : https://github.com/bhrugen/BookListRazor <br />
 Humanizer : https://github.com/Humanizr/Humanizer <br />
+https://github.com/dotnet/cli-lab/releases <br />
 
 **_ASP.NET Core questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com
@@ -69,6 +70,7 @@ Configuration in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fun
 IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iapplicationbuilder?view=aspnetcore-3.1 <br />
 Partial views in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-3.1 <br />
 Tutorial: Get started with Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1&tabs=visual-studio <br />
+.NET Core Uninstall Tool : https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windows <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
