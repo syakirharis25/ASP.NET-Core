@@ -88,6 +88,7 @@ How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.
 What is IIS Express? How It Works, Tutorials, and More by Stackify : https://stackify.com/what-is-iis-express/ <br />
 Understanding ASP.NET MVC using Real World Example, for Beginners and Intermediate Programmers by Afzaal Ahmad Zeeshan : https://www.codeproject.com/articles/871375/understanding-asp-net-mvc-using-real-world-example <br />
 ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
+Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
