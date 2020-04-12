@@ -53,7 +53,8 @@ Humanizer : https://github.com/Humanizr/Humanizer <br />
 https://github.com/dotnet/cli-lab/releases <br />
 
 **_ASP.NET Core questions and answers_** <br />
-Stack Overflow questions and answers website : https://stackoverflow.com
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+Microsoft ASP.NET forum : https://forums.asp.net <br /> 
 
 **_ASP.NET Core documentation by docs.microsoft.com_** <br />
 Introduction to Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio <br />
@@ -76,6 +77,9 @@ ASP.NET Core fundamentals : https://docs.microsoft.com/en-us/aspnet/core/fundame
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
+
+**_ASP.NET questions and answers by Microsoft_** <br />
+How to get parameter in url ( by C# for .net) : https://forums.asp.net/t/1072321.aspx?How+to+get+parameter+in+url+by+C+for+net+ <br />
 
 **_ASP.NET related articles_** <br />
 ASP.NET Core – ConfigureServices vs Configure by CodingBlast : https://codingblast.com/asp-net-core-configureservices-vs-configure/ <br />
