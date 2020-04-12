@@ -71,15 +71,18 @@ IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/micr
 Partial views in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-3.1 <br />
 Tutorial: Get started with Razor Pages in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1&tabs=visual-studio <br />
 .NET Core Uninstall Tool : https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windows <br />
+Razor syntax reference for ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.1 <br />
+ASP.NET Core fundamentals : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
-[ draft ]  <br />
+How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
 
 **_ASP.NET related articles_** <br />
 ASP.NET Core – ConfigureServices vs Configure by CodingBlast : https://codingblast.com/asp-net-core-configureservices-vs-configure/ <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
 What is IIS Express? How It Works, Tutorials, and More by Stackify : https://stackify.com/what-is-iis-express/ <br />
 Understanding ASP.NET MVC using Real World Example, for Beginners and Intermediate Programmers by Afzaal Ahmad Zeeshan : https://www.codeproject.com/articles/871375/understanding-asp-net-mvc-using-real-world-example <br />
+ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
