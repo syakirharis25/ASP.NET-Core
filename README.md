@@ -81,6 +81,7 @@ Logging in .NET Core and ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/
 Kestrel web server implementation in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-3.1 <br />
 ASP.NET Core Middleware : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1 <br />
 Routing in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-3.1 <br />
+Using Asynchronous Methods in ASP.NET 4.5 : https://docs.microsoft.com/en-us/aspnet/web-forms/overview/performance-and-caching/using-asynchronous-methods-in-aspnet-45 <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
