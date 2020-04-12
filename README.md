@@ -79,9 +79,11 @@ Tutorial: Get started with Razor Pages in ASP.NET Core : https://docs.microsoft.
 ASP.NET Core – ConfigureServices vs Configure by CodingBlast : https://codingblast.com/asp-net-core-configureservices-vs-configure/ <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
 What is IIS Express? How It Works, Tutorials, and More by Stackify : https://stackify.com/what-is-iis-express/ <br />
+Understanding ASP.NET MVC using Real World Example, for Beginners and Intermediate Programmers by Afzaal Ahmad Zeeshan : https://www.codeproject.com/articles/871375/understanding-asp-net-mvc-using-real-world-example <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
+Afzaal Ahmad Zeeshan : https://github.com/afzaal-ahmad-zeeshan, https://twitter.com/afzaalvirgoboy <br />
 Bhrugen Patel : https://github.com/bhrugen <br />
 Scott Hanselman : https://github.com/shanselman, https://twitter.com/shanselman <br />
 Maria Naggaga : https://twitter.com/LadyNaggaga <br />
