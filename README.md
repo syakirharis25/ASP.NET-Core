@@ -74,6 +74,7 @@ Tutorial: Get started with Razor Pages in ASP.NET Core : https://docs.microsoft.
 .NET Core Uninstall Tool : https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windows <br />
 Razor syntax reference for ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.1 <br />
 ASP.NET Core fundamentals : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows <br />
+Views in ASP.NET Core MVC : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
