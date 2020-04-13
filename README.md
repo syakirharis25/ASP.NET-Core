@@ -88,7 +88,7 @@ Configure Windows Authentication in ASP.NET Core : https://docs.microsoft.com/en
 ASP.NET Profile Properties Overview : https://docs.microsoft.com/en-us/previous-versions/aspnet/2y3fs9xs(v%3Dvs.100) <br />
 Development-time IIS support in Visual Studio for ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/development-time-iis-support?view=aspnetcore-3.1 <br />
 Use multiple environments in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-3.1 <br />
-HostingEnvironmentExtensions.IsProduction(IHostingEnvironment) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.hostingenvironmentextensions.isproduction?view=aspnetcore-3.1 <br />
+App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
