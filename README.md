@@ -108,6 +108,7 @@ What is IIS Express? How It Works, Tutorials, and More by Stackify : https://sta
 Understanding ASP.NET MVC using Real World Example, for Beginners and Intermediate Programmers by Afzaal Ahmad Zeeshan : https://www.codeproject.com/articles/871375/understanding-asp-net-mvc-using-real-world-example <br />
 ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
 Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
+Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
