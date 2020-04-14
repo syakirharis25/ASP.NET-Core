@@ -92,6 +92,7 @@ App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/funda
 Tag Helpers in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-3.1 <br />
 ASP.NET MVC Controller Overview (C#) : https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/aspnet-mvc-controllers-overview-cs <br />
 View components in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-3.1 <br />
+Add a model to an ASP.NET Core MVC app : https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
