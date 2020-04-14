@@ -128,6 +128,7 @@ What is IIS Express? How It Works, Tutorials, and More by Stackify : https://sta
 Understanding ASP.NET MVC using Real World Example, for Beginners and Intermediate Programmers by Afzaal Ahmad Zeeshan : https://www.codeproject.com/articles/871375/understanding-asp-net-mvc-using-real-world-example <br />
 Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
 Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
+ASP.NET Set ContentType by dotnetperls.com : https://www.dotnetperls.com/contenttype <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
