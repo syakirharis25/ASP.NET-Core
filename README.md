@@ -112,6 +112,7 @@ ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mv
 Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
 Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
 Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
+Passing Arguments to an ASP .NET Page : https://stackoverflow.com/questions/10659199/passing-arguments-to-an-asp-net-page <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
