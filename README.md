@@ -94,10 +94,22 @@ ASP.NET MVC Controller Overview (C#) : https://docs.microsoft.com/en-us/aspnet/m
 View components in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-3.1 <br />
 Add a model to an ASP.NET Core MVC app : https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio <br />
 Partial views in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-3.1 <br />
+Working with Data in ASP.NET Core Apps : https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/work-with-data-in-asp-net-core-apps <br />
+ASP.NET Dynamic Data : https://docs.microsoft.com/en-us/aspnet/web-forms/videos/aspnet-dynamic-data/ <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
 Context object in ASP.Net by Meera Academy : https://meeraacademy.com/context-object-in-asp-net/ <br />
+
+**_ASP.NET Core documentation by C# Corner_** <br />
+How To Work With JSON In ASP.NET by C# Corner : https://www.c-sharpcorner.com/article/how-to-work-with-json-in-Asp-Net/ <br />
+JsonResult In ASP.NET MVC by C# Corner : https://www.c-sharpcorner.com/UploadFile/0c1bb2/jsonresult-in-Asp-Net-mvc/ <br />
+
+**_ASP.NET Core documentation by TutorialsTeacher_** <br />
+ASP.NET MVC - ViewBag by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewbag-in-asp.net-mvc <br />
+ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
+Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
+ASP.NET MVC - TempData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/tempdata-in-asp.net-mvc <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
@@ -112,8 +124,6 @@ ASP.NET Core – ConfigureServices vs Configure by CodingBlast : https://codingb
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
 What is IIS Express? How It Works, Tutorials, and More by Stackify : https://stackify.com/what-is-iis-express/ <br />
 Understanding ASP.NET MVC using Real World Example, for Beginners and Intermediate Programmers by Afzaal Ahmad Zeeshan : https://www.codeproject.com/articles/871375/understanding-asp-net-mvc-using-real-world-example <br />
-ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
-Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
 Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
 Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
 
