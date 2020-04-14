@@ -131,6 +131,7 @@ Understanding ASP.NET MVC using Real World Example, for Beginners and Intermedia
 Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
 Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
 ASP.NET Set ContentType by dotnetperls.com : https://www.dotnetperls.com/contenttype <br />
+Use of Route Name in Routes in Asp.Net MVC : https://stackoverflow.com/questions/24858876/use-of-route-name-in-routes-in-asp-net-mvc <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
