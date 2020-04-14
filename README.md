@@ -91,6 +91,7 @@ Use multiple environments in ASP.NET Core : https://docs.microsoft.com/en-us/asp
 App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-3.1 <br />
 Tag Helpers in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-3.1 <br />
 ASP.NET MVC Controller Overview (C#) : https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controllers-and-routing/aspnet-mvc-controllers-overview-cs <br />
+View components in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
@@ -99,6 +100,7 @@ Context object in ASP.Net by Meera Academy : https://meeraacademy.com/context-ob
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
 How Do You Access the `applicationUrl` Property Found in launchSettings.json from Asp.NET Core 3.1 Startup class? : https://stackoverflow.com/questions/59398439/how-do-you-access-the-applicationurl-property-found-in-launchsettings-json-fro <br />
+Passing Arguments to an ASP .NET Page by Stack Overflow : https://stackoverflow.com/questions/10659199/passing-arguments-to-an-asp-net-page <br />
 
 **_ASP.NET questions and answers by Microsoft_** <br />
 How to get parameter in url ( by C# for .net) : https://forums.asp.net/t/1072321.aspx?How+to+get+parameter+in+url+by+C+for+net+ <br />
@@ -112,7 +114,6 @@ ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mv
 Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
 Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
 Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
-Passing Arguments to an ASP .NET Page : https://stackoverflow.com/questions/10659199/passing-arguments-to-an-asp-net-page <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
