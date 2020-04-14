@@ -119,6 +119,7 @@ How to set default page asp.net [duplicate] by Stack Overflow : https://stackove
 How Do You Access the `applicationUrl` Property Found in launchSettings.json from Asp.NET Core 3.1 Startup class? : https://stackoverflow.com/questions/59398439/how-do-you-access-the-applicationurl-property-found-in-launchsettings-json-fro <br />
 Passing Arguments to an ASP .NET Page by Stack Overflow : https://stackoverflow.com/questions/10659199/passing-arguments-to-an-asp-net-page <br />
 Can anyone explain CreatedAtRoute() to me? by Stack Overflow : https://stackoverflow.com/questions/25045604/can-anyone-explain-createdatroute-to-me <br />
+Last-Modified Header in MVC by Stack Overflow : https://stackoverflow.com/questions/10498135/last-modified-header-in-mvc <br />
 
 **_ASP.NET questions and answers by Microsoft_** <br />
 How to get parameter in url ( by C# for .net) : https://forums.asp.net/t/1072321.aspx?How+to+get+parameter+in+url+by+C+for+net+ <br />
@@ -132,6 +133,7 @@ Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/b
 Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
 ASP.NET Set ContentType by dotnetperls.com : https://www.dotnetperls.com/contenttype <br />
 Use of Route Name in Routes in Asp.Net MVC : https://stackoverflow.com/questions/24858876/use-of-route-name-in-routes-in-asp-net-mvc <br />
+Implementing Entity Tag in ASP.NET Web API : https://piusnjoka.wordpress.com/2013/05/10/implementing-entity-tag-in-asp-net-web-api/ <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
