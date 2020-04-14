@@ -89,6 +89,7 @@ ASP.NET Profile Properties Overview : https://docs.microsoft.com/en-us/previous-
 Development-time IIS support in Visual Studio for ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/development-time-iis-support?view=aspnetcore-3.1 <br />
 Use multiple environments in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-3.1 <br />
 App startup in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-3.1 <br />
+Tag Helpers in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
@@ -109,6 +110,7 @@ Understanding ASP.NET MVC using Real World Example, for Beginners and Intermedia
 ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
 Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
 Understanding ASP.NET Core Endpoint Routing by aregcode : https://aregcode.com/blog/2019/dotnetcore-understanding-aspnet-endpoint-routing/ <br />
+Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Articles/786603/Using-TempData-in-ASP-NET-MVC <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
