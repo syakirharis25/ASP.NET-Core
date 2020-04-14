@@ -105,6 +105,7 @@ Context object in ASP.Net by Meera Academy : https://meeraacademy.com/context-ob
 **_ASP.NET Core documentation by C# Corner_** <br />
 How To Work With JSON In ASP.NET by C# Corner : https://www.c-sharpcorner.com/article/how-to-work-with-json-in-Asp-Net/ <br />
 JsonResult In ASP.NET MVC by C# Corner : https://www.c-sharpcorner.com/UploadFile/0c1bb2/jsonresult-in-Asp-Net-mvc/ <br />
+Properties in ASP.Net User Control by C# Corner : https://www.c-sharpcorner.com/UploadFile/0c1bb2/properties-in-Asp-Net-user-control/ <br />
 
 **_ASP.NET Core documentation by TutorialsTeacher_** <br />
 ASP.NET MVC - ViewBag by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewbag-in-asp.net-mvc <br />
