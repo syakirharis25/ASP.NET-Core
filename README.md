@@ -137,6 +137,7 @@ Using TempData in ASP.NET MVC by CODE PROJECT : https://www.codeproject.com/Arti
 ASP.NET Set ContentType by dotnetperls.com : https://www.dotnetperls.com/contenttype <br />
 Use of Route Name in Routes in Asp.Net MVC : https://stackoverflow.com/questions/24858876/use-of-route-name-in-routes-in-asp-net-mvc <br />
 Implementing Entity Tag in ASP.NET Web API : https://piusnjoka.wordpress.com/2013/05/10/implementing-entity-tag-in-asp-net-web-api/ <br />
+Working with ActionResult in ASP.NET MVC by exceptionnotfound.net : https://exceptionnotfound.net/asp-net-mvc-demystified-actionresults/ <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
