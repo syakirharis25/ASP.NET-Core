@@ -98,6 +98,8 @@ Working with Data in ASP.NET Core Apps : https://docs.microsoft.com/en-us/dotnet
 ASP.NET Dynamic Data : https://docs.microsoft.com/en-us/aspnet/web-forms/videos/aspnet-dynamic-data/ <br />
 URL Routing : https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/url-routing <br />
 ASP.NET Error Handling : https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/aspnet-error-handling <br />
+UnauthorizedResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.unauthorizedresult?view=aspnetcore-3.1 <br />
+ControllerBase.TryValidateModel Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.tryvalidatemodel?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
