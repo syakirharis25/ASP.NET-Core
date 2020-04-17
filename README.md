@@ -103,6 +103,7 @@ ControllerBase.TryValidateModel Method : https://docs.microsoft.com/en-us/dotnet
 Adding a View : https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/adding-a-view <br />
 Static files in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-3.1 <br />
 File Providers in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/file-providers?view=aspnetcore-3.1 <br />
+Use LibMan with ASP.NET Core in Visual Studio : https://docs.microsoft.com/en-us/aspnet/core/client-side/libman/libman-vs?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
