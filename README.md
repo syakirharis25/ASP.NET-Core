@@ -104,6 +104,7 @@ Adding a View : https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-sta
 Static files in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-3.1 <br />
 File Providers in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/file-providers?view=aspnetcore-3.1 <br />
 Use LibMan with ASP.NET Core in Visual Studio : https://docs.microsoft.com/en-us/aspnet/core/client-side/libman/libman-vs?view=aspnetcore-3.1 <br />
+Razor file compilation in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-compilation?view=aspnetcore-3.1&tabs=visual-studio <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
