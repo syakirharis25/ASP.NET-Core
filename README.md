@@ -117,6 +117,7 @@ ASP.NET MVC - ViewBag by TutorialsTeacher : https://www.tutorialsteacher.com/mvc
 ASP.NET MVC - ViewData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/viewdata-in-asp.net-mvc <br />
 Layout View by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc <br />
 ASP.NET MVC - TempData by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/tempdata-in-asp.net-mvc <br />
+Action method by TutorialsTeacher : https://www.tutorialsteacher.com/mvc/action-method-in-mvc <br />
 
 **_ASP.NET Core questions and answers by Stack Overflow_** <br />
 How to set default page asp.net [duplicate] by Stack Overflow : https://stackoverflow.com/questions/18002744/how-to-set-default-page-asp-net  <br />
