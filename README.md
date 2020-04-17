@@ -141,6 +141,7 @@ Implementing Entity Tag in ASP.NET Web API : https://piusnjoka.wordpress.com/201
 Working with ActionResult in ASP.NET MVC by exceptionnotfound.net : https://exceptionnotfound.net/asp-net-mvc-demystified-actionresults/ <br />
 ViewBag 101: How It Works, When It’s Used, Code Examples, and More by Stackify : https://stackify.com/viewbag/ <br />
 Using with ASP.NET Core by Stackify : https://docs.stackify.com/docs/prefix-using-with-asp-net-corekestrel <br />
+Exploring Prefix: A Free ASP.NET Profiling Tool by Mikesdotnetting : https://www.mikesdotnetting.com/article/296/exploring-prefix-a-free-asp-net-profiling-tool <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
