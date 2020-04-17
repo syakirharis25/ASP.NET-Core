@@ -124,6 +124,7 @@ Passing Arguments to an ASP .NET Page by Stack Overflow : https://stackoverflow.
 Can anyone explain CreatedAtRoute() to me? by Stack Overflow : https://stackoverflow.com/questions/25045604/can-anyone-explain-createdatroute-to-me <br />
 Last-Modified Header in MVC by Stack Overflow : https://stackoverflow.com/questions/10498135/last-modified-header-in-mvc <br />
 Virtual Path in ASP.NET by Stack Overflow : https://stackoverflow.com/questions/8309001/virtual-path-in-asp-net <br />
+What is wwwroot in asp.net vnext by Stack Overflow : https://stackoverflow.com/questions/27648045/what-is-wwwroot-in-asp-net-vnext <br />
 
 **_ASP.NET questions and answers by Microsoft_** <br />
 How to get parameter in url ( by C# for .net) : https://forums.asp.net/t/1072321.aspx?How+to+get+parameter+in+url+by+C+for+net+ <br />
