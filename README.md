@@ -101,6 +101,7 @@ ASP.NET Error Handling : https://docs.microsoft.com/en-us/aspnet/web-forms/overv
 UnauthorizedResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.unauthorizedresult?view=aspnetcore-3.1 <br />
 ControllerBase.TryValidateModel Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.tryvalidatemodel?view=aspnetcore-3.1 <br />
 Adding a View : https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/adding-a-view <br />
+Static files in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files?view=aspnetcore-3.1 <br />
 
 **_ASP.NET Core documentation by Meera Academy_** <br />
 How to use Context Object in ASP.Net C# by Meera Academy : https://meeraacademy.com/how-to-use-context-object-in-asp-net-c/ <br />
