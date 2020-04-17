@@ -149,6 +149,7 @@ ViewBag 101: How It Works, When It’s Used, Code Examples, and More by Stackify
 Using with ASP.NET Core by Stackify : https://docs.stackify.com/docs/prefix-using-with-asp-net-corekestrel <br />
 Exploring Prefix: A Free ASP.NET Profiling Tool by Mikesdotnetting : https://www.mikesdotnetting.com/article/296/exploring-prefix-a-free-asp-net-profiling-tool <br />
 ASP Write Method by w3schools.com : https://www.w3schools.com/asp/met_write_response.asp <br />
+What are Layout, _ViewStart, RenderBody, and RenderSection in MVC? by Exception Not Found : https://exceptionnotfound.net/asp-net-mvc-demystified-layout-viewstart-renderbody-and-rendersection/ <br />
 
 <a name="developers"></a>
 ## 3. ASP.NET Core developers.
